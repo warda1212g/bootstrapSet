@@ -1,0 +1,22 @@
+.navbar-nav{
+    padding: 10px;
+    margin: auto;
+}
+.nav-link{
+    padding: 10px;
+    margin: auto;
+}
+.carousel-inner{
+    height: 600px;
+    width: 100%;
+}
+.logo{
+    width: 200px;
+    height:100px;
+}
+.searching{
+   margin:auto 40px auto auto;
+}
+.form-control{
+    width: 200px;
+} 
